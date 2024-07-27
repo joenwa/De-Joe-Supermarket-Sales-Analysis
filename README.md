@@ -38,4 +38,13 @@ The data provided by De Joe Supermarket was meticulously cleaned, transformed, a
 Using Excel for data cleaning, transformation, and visualization enabled an efficient and effective analysis process. The visualizations and insights derived from Excel provide a solid foundation for making data-driven decisions and strategic planning.
 
 
+### Data Analysis I Performed Using Pivot Tables
+#### Sales Performance Analysis
+1. I Created a pivot table to sum up the total sales for each salesperson to identify top performers as follows:
+   - highlighting the dadaset table,
+   - click on insert,
+   - select pivot table,
+   - chose from table/range,
+   - drag Salesperson into Row Labels
+   - Sum of Sales into Values
 
